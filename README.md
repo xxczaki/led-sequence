@@ -1,7 +1,7 @@
 # led-sequence
 Simple Arduino Led Sequence :)
 
-## Prerequisites
+### Prerequisites
 
 - Arduino UNO/MEGA 2560* with USB Cable
 - Prototype Board
@@ -11,6 +11,6 @@ Simple Arduino Led Sequence :)
 
 *Tested with Arduino UNO & MEGA 
 
-## Sketch
+### Sketch
 
 ![Sketch](https://raw.githubusercontent.com/xxczaki/led-sequence/master/sketch.png)
