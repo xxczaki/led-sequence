@@ -14,3 +14,7 @@ Simple Arduino Led Sequence :)
 ### Sketch
 
 ![Sketch](https://raw.githubusercontent.com/xxczaki/led-sequence/master/sketch.png)
+
+### Image
+
+![Image](https://raw.githubusercontent.com/xxczaki/led-sequence/master/image.jpg)
