@@ -9,6 +9,8 @@ Simple Arduino Led Sequence :)
 - 7x Resistor 200-680 Ω (You can use more)
 - Prototype Board Cables
 
+*Tested with Arduino UNO & MEGA 
+
 ## Sketch
 
 ![Sketch](https://raw.githubusercontent.com/xxczaki/led-sequence/master/sketch.png)
